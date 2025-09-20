@@ -1,0 +1,3402 @@
+[
+    [
+        "is Yogurt good for Thyroid?",
+        {
+            "entities": [
+                [
+                    3,
+                    9,
+                    "FOOD"
+                ],
+                [
+                    19,
+                    26,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Diabetes, can I eat Banana?",
+        {
+            "entities": [
+                [
+                    27,
+                    33,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    15,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Avocado and Obesity",
+        {
+            "entities": [
+                [
+                    14,
+                    21,
+                    "FOOD"
+                ],
+                [
+                    26,
+                    33,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Sugary Drinks for Obesity",
+        {
+            "entities": [
+                [
+                    0,
+                    13,
+                    "FOOD"
+                ],
+                [
+                    18,
+                    25,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Processed Meats and Hypertension",
+        {
+            "entities": [
+                [
+                    14,
+                    29,
+                    "FOOD"
+                ],
+                [
+                    34,
+                    46,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Banana for Diabetes",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "FOOD"
+                ],
+                [
+                    11,
+                    19,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Obesity, is Nuts okay?",
+        {
+            "entities": [
+                [
+                    17,
+                    21,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    12,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Avocado for my Obesity",
+        {
+            "entities": [
+                [
+                    11,
+                    18,
+                    "FOOD"
+                ],
+                [
+                    26,
+                    33,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Rice good for Diabetes?",
+        {
+            "entities": [
+                [
+                    3,
+                    7,
+                    "FOOD"
+                ],
+                [
+                    17,
+                    25,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Canned Soup good for Hypertension?",
+        {
+            "entities": [
+                [
+                    3,
+                    14,
+                    "FOOD"
+                ],
+                [
+                    24,
+                    36,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Rice for my Diabetes",
+        {
+            "entities": [
+                [
+                    11,
+                    15,
+                    "FOOD"
+                ],
+                [
+                    23,
+                    31,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Rice and Diabetes",
+        {
+            "entities": [
+                [
+                    14,
+                    18,
+                    "FOOD"
+                ],
+                [
+                    23,
+                    31,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Sweetened Cereal and Diabetes",
+        {
+            "entities": [
+                [
+                    14,
+                    30,
+                    "FOOD"
+                ],
+                [
+                    35,
+                    43,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Thyroid, is Eggs okay?",
+        {
+            "entities": [
+                [
+                    17,
+                    21,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    12,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does White Bread affect Diabetes?",
+        {
+            "entities": [
+                [
+                    9,
+                    20,
+                    "FOOD"
+                ],
+                [
+                    28,
+                    36,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Hypertension, is Canned Soup okay?",
+        {
+            "entities": [
+                [
+                    22,
+                    33,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    17,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Pastries if I have Obesity",
+        {
+            "entities": [
+                [
+                    10,
+                    18,
+                    "FOOD"
+                ],
+                [
+                    29,
+                    36,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Beets for my Hypertension",
+        {
+            "entities": [
+                [
+                    11,
+                    16,
+                    "FOOD"
+                ],
+                [
+                    24,
+                    36,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Sugary Drinks affect Obesity?",
+        {
+            "entities": [
+                [
+                    9,
+                    22,
+                    "FOOD"
+                ],
+                [
+                    30,
+                    37,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Processed Meats for my Hypertension",
+        {
+            "entities": [
+                [
+                    11,
+                    26,
+                    "FOOD"
+                ],
+                [
+                    34,
+                    46,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Obesity, can I eat French Fries?",
+        {
+            "entities": [
+                [
+                    26,
+                    38,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    14,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Canned Soup if I have Hypertension",
+        {
+            "entities": [
+                [
+                    10,
+                    21,
+                    "FOOD"
+                ],
+                [
+                    32,
+                    44,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Avocado good for Obesity?",
+        {
+            "entities": [
+                [
+                    3,
+                    10,
+                    "FOOD"
+                ],
+                [
+                    20,
+                    27,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Soy if I have Thyroid",
+        {
+            "entities": [
+                [
+                    10,
+                    13,
+                    "FOOD"
+                ],
+                [
+                    24,
+                    31,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Oats for my Diabetes",
+        {
+            "entities": [
+                [
+                    11,
+                    15,
+                    "FOOD"
+                ],
+                [
+                    23,
+                    31,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Sweetened Cereal for Diabetes",
+        {
+            "entities": [
+                [
+                    0,
+                    16,
+                    "FOOD"
+                ],
+                [
+                    21,
+                    29,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Pizza for my Hypertension",
+        {
+            "entities": [
+                [
+                    11,
+                    16,
+                    "FOOD"
+                ],
+                [
+                    24,
+                    36,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Hypertension, can I eat Processed Meats?",
+        {
+            "entities": [
+                [
+                    31,
+                    46,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    19,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Spinach if I have Hypertension",
+        {
+            "entities": [
+                [
+                    10,
+                    17,
+                    "FOOD"
+                ],
+                [
+                    28,
+                    40,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Avocado for Obesity",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "FOOD"
+                ],
+                [
+                    12,
+                    19,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Hypertension, is Pizza okay?",
+        {
+            "entities": [
+                [
+                    22,
+                    27,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    17,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Seaweed good for Thyroid?",
+        {
+            "entities": [
+                [
+                    3,
+                    10,
+                    "FOOD"
+                ],
+                [
+                    20,
+                    27,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Hypertension, can I eat Canned Soup?",
+        {
+            "entities": [
+                [
+                    31,
+                    42,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    19,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pastries for Obesity",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "FOOD"
+                ],
+                [
+                    13,
+                    20,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Soy for Thyroid",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "FOOD"
+                ],
+                [
+                    8,
+                    15,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Yogurt affect Thyroid?",
+        {
+            "entities": [
+                [
+                    9,
+                    15,
+                    "FOOD"
+                ],
+                [
+                    23,
+                    30,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Beets affect Hypertension?",
+        {
+            "entities": [
+                [
+                    9,
+                    14,
+                    "FOOD"
+                ],
+                [
+                    22,
+                    34,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Seaweed affect Thyroid?",
+        {
+            "entities": [
+                [
+                    9,
+                    16,
+                    "FOOD"
+                ],
+                [
+                    24,
+                    31,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Spinach for Hypertension",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "FOOD"
+                ],
+                [
+                    12,
+                    24,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Seaweed for Thyroid",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "FOOD"
+                ],
+                [
+                    12,
+                    19,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Oats if I have Diabetes",
+        {
+            "entities": [
+                [
+                    10,
+                    14,
+                    "FOOD"
+                ],
+                [
+                    25,
+                    33,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is White Bread good for Diabetes?",
+        {
+            "entities": [
+                [
+                    3,
+                    14,
+                    "FOOD"
+                ],
+                [
+                    24,
+                    32,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Oats for Diabetes",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "FOOD"
+                ],
+                [
+                    9,
+                    17,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Salmon if I have Hypertension",
+        {
+            "entities": [
+                [
+                    10,
+                    16,
+                    "FOOD"
+                ],
+                [
+                    27,
+                    39,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Beets for Hypertension",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "FOOD"
+                ],
+                [
+                    10,
+                    22,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Obesity, is Beans okay?",
+        {
+            "entities": [
+                [
+                    17,
+                    22,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    12,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Beans for Obesity",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "FOOD"
+                ],
+                [
+                    10,
+                    17,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Eggs and Thyroid",
+        {
+            "entities": [
+                [
+                    14,
+                    18,
+                    "FOOD"
+                ],
+                [
+                    23,
+                    30,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Eggs good for Thyroid?",
+        {
+            "entities": [
+                [
+                    3,
+                    7,
+                    "FOOD"
+                ],
+                [
+                    17,
+                    24,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is French Fries good for Obesity?",
+        {
+            "entities": [
+                [
+                    3,
+                    15,
+                    "FOOD"
+                ],
+                [
+                    25,
+                    32,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Banana and Diabetes",
+        {
+            "entities": [
+                [
+                    14,
+                    20,
+                    "FOOD"
+                ],
+                [
+                    25,
+                    33,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Sweetened Cereal for my Diabetes",
+        {
+            "entities": [
+                [
+                    11,
+                    27,
+                    "FOOD"
+                ],
+                [
+                    35,
+                    43,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Sugary Drinks and Obesity",
+        {
+            "entities": [
+                [
+                    14,
+                    27,
+                    "FOOD"
+                ],
+                [
+                    32,
+                    39,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Thyroid, is Yogurt okay?",
+        {
+            "entities": [
+                [
+                    17,
+                    23,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    12,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Hypertension, is Processed Meats okay?",
+        {
+            "entities": [
+                [
+                    22,
+                    37,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    17,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Hypertension, can I eat Beets?",
+        {
+            "entities": [
+                [
+                    31,
+                    36,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    19,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Hypertension, is Spinach okay?",
+        {
+            "entities": [
+                [
+                    22,
+                    29,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    17,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Canned Soup affect Hypertension?",
+        {
+            "entities": [
+                [
+                    9,
+                    20,
+                    "FOOD"
+                ],
+                [
+                    28,
+                    40,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Nuts affect Obesity?",
+        {
+            "entities": [
+                [
+                    9,
+                    13,
+                    "FOOD"
+                ],
+                [
+                    21,
+                    28,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Soy affect Thyroid?",
+        {
+            "entities": [
+                [
+                    9,
+                    12,
+                    "FOOD"
+                ],
+                [
+                    20,
+                    27,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Apple and Diabetes",
+        {
+            "entities": [
+                [
+                    14,
+                    19,
+                    "FOOD"
+                ],
+                [
+                    24,
+                    32,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Obesity, is Pastries okay?",
+        {
+            "entities": [
+                [
+                    17,
+                    25,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    12,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Gluten good for Thyroid?",
+        {
+            "entities": [
+                [
+                    3,
+                    9,
+                    "FOOD"
+                ],
+                [
+                    19,
+                    26,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Eggs affect Thyroid?",
+        {
+            "entities": [
+                [
+                    9,
+                    13,
+                    "FOOD"
+                ],
+                [
+                    21,
+                    28,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Pastries affect Obesity?",
+        {
+            "entities": [
+                [
+                    9,
+                    17,
+                    "FOOD"
+                ],
+                [
+                    25,
+                    32,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Eggs for Thyroid",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "FOOD"
+                ],
+                [
+                    9,
+                    16,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Obesity, can I eat Nuts?",
+        {
+            "entities": [
+                [
+                    26,
+                    30,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    14,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Beans if I have Obesity",
+        {
+            "entities": [
+                [
+                    10,
+                    15,
+                    "FOOD"
+                ],
+                [
+                    26,
+                    33,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about White Bread and Diabetes",
+        {
+            "entities": [
+                [
+                    14,
+                    25,
+                    "FOOD"
+                ],
+                [
+                    30,
+                    38,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Processed Meats if I have Hypertension",
+        {
+            "entities": [
+                [
+                    10,
+                    25,
+                    "FOOD"
+                ],
+                [
+                    36,
+                    48,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Avocado affect Obesity?",
+        {
+            "entities": [
+                [
+                    9,
+                    16,
+                    "FOOD"
+                ],
+                [
+                    24,
+                    31,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Beets good for Hypertension?",
+        {
+            "entities": [
+                [
+                    3,
+                    8,
+                    "FOOD"
+                ],
+                [
+                    18,
+                    30,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Oats affect Diabetes?",
+        {
+            "entities": [
+                [
+                    9,
+                    13,
+                    "FOOD"
+                ],
+                [
+                    21,
+                    29,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Diabetes, can I eat Berries?",
+        {
+            "entities": [
+                [
+                    27,
+                    34,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    15,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Cruciferous Vegetables if I have Thyroid",
+        {
+            "entities": [
+                [
+                    10,
+                    32,
+                    "FOOD"
+                ],
+                [
+                    43,
+                    50,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Hypertension, can I eat Salmon?",
+        {
+            "entities": [
+                [
+                    31,
+                    37,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    19,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Thyroid, is Cruciferous Vegetables okay?",
+        {
+            "entities": [
+                [
+                    17,
+                    39,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    12,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Apple for Diabetes",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "FOOD"
+                ],
+                [
+                    10,
+                    18,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Gluten for Thyroid",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "FOOD"
+                ],
+                [
+                    11,
+                    18,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Diabetes, can I eat Oats?",
+        {
+            "entities": [
+                [
+                    27,
+                    31,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    15,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Berries for my Diabetes",
+        {
+            "entities": [
+                [
+                    11,
+                    18,
+                    "FOOD"
+                ],
+                [
+                    26,
+                    34,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Obesity, can I eat Avocado?",
+        {
+            "entities": [
+                [
+                    26,
+                    33,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    14,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Yogurt and Thyroid",
+        {
+            "entities": [
+                [
+                    14,
+                    20,
+                    "FOOD"
+                ],
+                [
+                    25,
+                    32,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Gluten affect Thyroid?",
+        {
+            "entities": [
+                [
+                    9,
+                    15,
+                    "FOOD"
+                ],
+                [
+                    23,
+                    30,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Spinach for my Hypertension",
+        {
+            "entities": [
+                [
+                    11,
+                    18,
+                    "FOOD"
+                ],
+                [
+                    26,
+                    38,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Thyroid, can I eat Gluten?",
+        {
+            "entities": [
+                [
+                    26,
+                    32,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    14,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Obesity, can I eat Beans?",
+        {
+            "entities": [
+                [
+                    26,
+                    31,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    14,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Pizza affect Hypertension?",
+        {
+            "entities": [
+                [
+                    9,
+                    14,
+                    "FOOD"
+                ],
+                [
+                    22,
+                    34,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Salmon affect Hypertension?",
+        {
+            "entities": [
+                [
+                    9,
+                    15,
+                    "FOOD"
+                ],
+                [
+                    23,
+                    35,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Seaweed for my Thyroid",
+        {
+            "entities": [
+                [
+                    11,
+                    18,
+                    "FOOD"
+                ],
+                [
+                    26,
+                    33,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Pizza if I have Hypertension",
+        {
+            "entities": [
+                [
+                    10,
+                    15,
+                    "FOOD"
+                ],
+                [
+                    26,
+                    38,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Diabetes, is Sweetened Cereal okay?",
+        {
+            "entities": [
+                [
+                    18,
+                    34,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    13,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Salmon for Hypertension",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "FOOD"
+                ],
+                [
+                    11,
+                    23,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Rice affect Diabetes?",
+        {
+            "entities": [
+                [
+                    9,
+                    13,
+                    "FOOD"
+                ],
+                [
+                    21,
+                    29,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Cruciferous Vegetables for my Thyroid",
+        {
+            "entities": [
+                [
+                    11,
+                    33,
+                    "FOOD"
+                ],
+                [
+                    41,
+                    48,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Banana good for Diabetes?",
+        {
+            "entities": [
+                [
+                    3,
+                    9,
+                    "FOOD"
+                ],
+                [
+                    19,
+                    27,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Sugary Drinks for my Obesity",
+        {
+            "entities": [
+                [
+                    11,
+                    24,
+                    "FOOD"
+                ],
+                [
+                    32,
+                    39,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat White Bread if I have Diabetes",
+        {
+            "entities": [
+                [
+                    10,
+                    21,
+                    "FOOD"
+                ],
+                [
+                    32,
+                    40,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Salmon and Hypertension",
+        {
+            "entities": [
+                [
+                    14,
+                    20,
+                    "FOOD"
+                ],
+                [
+                    25,
+                    37,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Beets if I have Hypertension",
+        {
+            "entities": [
+                [
+                    10,
+                    15,
+                    "FOOD"
+                ],
+                [
+                    26,
+                    38,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Nuts if I have Obesity",
+        {
+            "entities": [
+                [
+                    10,
+                    14,
+                    "FOOD"
+                ],
+                [
+                    25,
+                    32,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "French Fries for Obesity",
+        {
+            "entities": [
+                [
+                    0,
+                    12,
+                    "FOOD"
+                ],
+                [
+                    17,
+                    24,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Diabetes, can I eat White Bread?",
+        {
+            "entities": [
+                [
+                    27,
+                    38,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    15,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Eggs if I have Thyroid",
+        {
+            "entities": [
+                [
+                    10,
+                    14,
+                    "FOOD"
+                ],
+                [
+                    25,
+                    32,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Diabetes, is White Bread okay?",
+        {
+            "entities": [
+                [
+                    18,
+                    29,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    13,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Pastries good for Obesity?",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "FOOD"
+                ],
+                [
+                    21,
+                    28,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pizza for Hypertension",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "FOOD"
+                ],
+                [
+                    10,
+                    22,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Rice if I have Diabetes",
+        {
+            "entities": [
+                [
+                    10,
+                    14,
+                    "FOOD"
+                ],
+                [
+                    25,
+                    33,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Obesity, is French Fries okay?",
+        {
+            "entities": [
+                [
+                    17,
+                    29,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    12,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Processed Meats good for Hypertension?",
+        {
+            "entities": [
+                [
+                    3,
+                    18,
+                    "FOOD"
+                ],
+                [
+                    28,
+                    40,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Canned Soup for Hypertension",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "FOOD"
+                ],
+                [
+                    16,
+                    28,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Thyroid, can I eat Cruciferous Vegetables?",
+        {
+            "entities": [
+                [
+                    26,
+                    48,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    14,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Berries for Diabetes",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "FOOD"
+                ],
+                [
+                    12,
+                    20,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Apple good for Diabetes?",
+        {
+            "entities": [
+                [
+                    3,
+                    8,
+                    "FOOD"
+                ],
+                [
+                    18,
+                    26,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Beans and Obesity",
+        {
+            "entities": [
+                [
+                    14,
+                    19,
+                    "FOOD"
+                ],
+                [
+                    24,
+                    31,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Processed Meats for Hypertension",
+        {
+            "entities": [
+                [
+                    0,
+                    15,
+                    "FOOD"
+                ],
+                [
+                    20,
+                    32,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Spinach affect Hypertension?",
+        {
+            "entities": [
+                [
+                    9,
+                    16,
+                    "FOOD"
+                ],
+                [
+                    24,
+                    36,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Beets and Hypertension",
+        {
+            "entities": [
+                [
+                    14,
+                    19,
+                    "FOOD"
+                ],
+                [
+                    24,
+                    36,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Gluten for my Thyroid",
+        {
+            "entities": [
+                [
+                    11,
+                    17,
+                    "FOOD"
+                ],
+                [
+                    25,
+                    32,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Thyroid, can I eat Seaweed?",
+        {
+            "entities": [
+                [
+                    26,
+                    33,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    14,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Thyroid, can I eat Eggs?",
+        {
+            "entities": [
+                [
+                    26,
+                    30,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    14,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Avocado if I have Obesity",
+        {
+            "entities": [
+                [
+                    10,
+                    17,
+                    "FOOD"
+                ],
+                [
+                    28,
+                    35,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Eggs for my Thyroid",
+        {
+            "entities": [
+                [
+                    11,
+                    15,
+                    "FOOD"
+                ],
+                [
+                    23,
+                    30,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Sweetened Cereal affect Diabetes?",
+        {
+            "entities": [
+                [
+                    9,
+                    25,
+                    "FOOD"
+                ],
+                [
+                    33,
+                    41,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Apple if I have Diabetes",
+        {
+            "entities": [
+                [
+                    10,
+                    15,
+                    "FOOD"
+                ],
+                [
+                    26,
+                    34,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Sweetened Cereal if I have Diabetes",
+        {
+            "entities": [
+                [
+                    10,
+                    26,
+                    "FOOD"
+                ],
+                [
+                    37,
+                    45,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Soy and Thyroid",
+        {
+            "entities": [
+                [
+                    14,
+                    17,
+                    "FOOD"
+                ],
+                [
+                    22,
+                    29,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Hypertension, can I eat Spinach?",
+        {
+            "entities": [
+                [
+                    31,
+                    38,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    19,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about French Fries and Obesity",
+        {
+            "entities": [
+                [
+                    14,
+                    26,
+                    "FOOD"
+                ],
+                [
+                    31,
+                    38,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Berries affect Diabetes?",
+        {
+            "entities": [
+                [
+                    9,
+                    16,
+                    "FOOD"
+                ],
+                [
+                    24,
+                    32,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Beans affect Obesity?",
+        {
+            "entities": [
+                [
+                    9,
+                    14,
+                    "FOOD"
+                ],
+                [
+                    22,
+                    29,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Thyroid, is Soy okay?",
+        {
+            "entities": [
+                [
+                    17,
+                    20,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    12,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Banana for my Diabetes",
+        {
+            "entities": [
+                [
+                    11,
+                    17,
+                    "FOOD"
+                ],
+                [
+                    25,
+                    33,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Berries good for Diabetes?",
+        {
+            "entities": [
+                [
+                    3,
+                    10,
+                    "FOOD"
+                ],
+                [
+                    20,
+                    28,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Diabetes, can I eat Sweetened Cereal?",
+        {
+            "entities": [
+                [
+                    27,
+                    43,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    15,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Spinach good for Hypertension?",
+        {
+            "entities": [
+                [
+                    3,
+                    10,
+                    "FOOD"
+                ],
+                [
+                    20,
+                    32,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Sweetened Cereal good for Diabetes?",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "FOOD"
+                ],
+                [
+                    29,
+                    37,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about French Fries for my Obesity",
+        {
+            "entities": [
+                [
+                    11,
+                    23,
+                    "FOOD"
+                ],
+                [
+                    31,
+                    38,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does French Fries affect Obesity?",
+        {
+            "entities": [
+                [
+                    9,
+                    21,
+                    "FOOD"
+                ],
+                [
+                    29,
+                    36,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Oats and Diabetes",
+        {
+            "entities": [
+                [
+                    14,
+                    18,
+                    "FOOD"
+                ],
+                [
+                    23,
+                    31,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Pastries for my Obesity",
+        {
+            "entities": [
+                [
+                    11,
+                    19,
+                    "FOOD"
+                ],
+                [
+                    27,
+                    34,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Seaweed and Thyroid",
+        {
+            "entities": [
+                [
+                    14,
+                    21,
+                    "FOOD"
+                ],
+                [
+                    26,
+                    33,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Banana if I have Diabetes",
+        {
+            "entities": [
+                [
+                    10,
+                    16,
+                    "FOOD"
+                ],
+                [
+                    27,
+                    35,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Apple affect Diabetes?",
+        {
+            "entities": [
+                [
+                    9,
+                    14,
+                    "FOOD"
+                ],
+                [
+                    22,
+                    30,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Salmon good for Hypertension?",
+        {
+            "entities": [
+                [
+                    3,
+                    9,
+                    "FOOD"
+                ],
+                [
+                    19,
+                    31,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Spinach and Hypertension",
+        {
+            "entities": [
+                [
+                    14,
+                    21,
+                    "FOOD"
+                ],
+                [
+                    26,
+                    38,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Nuts for my Obesity",
+        {
+            "entities": [
+                [
+                    11,
+                    15,
+                    "FOOD"
+                ],
+                [
+                    23,
+                    30,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Diabetes, is Oats okay?",
+        {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    13,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Seaweed if I have Thyroid",
+        {
+            "entities": [
+                [
+                    10,
+                    17,
+                    "FOOD"
+                ],
+                [
+                    28,
+                    35,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Gluten and Thyroid",
+        {
+            "entities": [
+                [
+                    14,
+                    20,
+                    "FOOD"
+                ],
+                [
+                    25,
+                    32,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Beans good for Obesity?",
+        {
+            "entities": [
+                [
+                    3,
+                    8,
+                    "FOOD"
+                ],
+                [
+                    18,
+                    25,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Yogurt if I have Thyroid",
+        {
+            "entities": [
+                [
+                    10,
+                    16,
+                    "FOOD"
+                ],
+                [
+                    27,
+                    34,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Thyroid, can I eat Yogurt?",
+        {
+            "entities": [
+                [
+                    26,
+                    32,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    14,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Berries if I have Diabetes",
+        {
+            "entities": [
+                [
+                    10,
+                    17,
+                    "FOOD"
+                ],
+                [
+                    28,
+                    36,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Obesity, can I eat Pastries?",
+        {
+            "entities": [
+                [
+                    26,
+                    34,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    14,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Thyroid, is Gluten okay?",
+        {
+            "entities": [
+                [
+                    17,
+                    23,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    12,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Obesity, is Avocado okay?",
+        {
+            "entities": [
+                [
+                    17,
+                    24,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    12,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Yogurt for Thyroid",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "FOOD"
+                ],
+                [
+                    11,
+                    18,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Pastries and Obesity",
+        {
+            "entities": [
+                [
+                    14,
+                    22,
+                    "FOOD"
+                ],
+                [
+                    27,
+                    34,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Apple for my Diabetes",
+        {
+            "entities": [
+                [
+                    11,
+                    16,
+                    "FOOD"
+                ],
+                [
+                    24,
+                    32,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Berries and Diabetes",
+        {
+            "entities": [
+                [
+                    14,
+                    21,
+                    "FOOD"
+                ],
+                [
+                    26,
+                    34,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Processed Meats affect Hypertension?",
+        {
+            "entities": [
+                [
+                    9,
+                    24,
+                    "FOOD"
+                ],
+                [
+                    32,
+                    44,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Obesity, can I eat Sugary Drinks?",
+        {
+            "entities": [
+                [
+                    26,
+                    39,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    14,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Diabetes, is Banana okay?",
+        {
+            "entities": [
+                [
+                    18,
+                    24,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    13,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Sugary Drinks if I have Obesity",
+        {
+            "entities": [
+                [
+                    10,
+                    23,
+                    "FOOD"
+                ],
+                [
+                    34,
+                    41,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Canned Soup for my Hypertension",
+        {
+            "entities": [
+                [
+                    11,
+                    22,
+                    "FOOD"
+                ],
+                [
+                    30,
+                    42,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Soy good for Thyroid?",
+        {
+            "entities": [
+                [
+                    3,
+                    6,
+                    "FOOD"
+                ],
+                [
+                    16,
+                    23,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Cruciferous Vegetables affect Thyroid?",
+        {
+            "entities": [
+                [
+                    9,
+                    31,
+                    "FOOD"
+                ],
+                [
+                    39,
+                    46,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Diabetes, can I eat Rice?",
+        {
+            "entities": [
+                [
+                    27,
+                    31,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    15,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Canned Soup and Hypertension",
+        {
+            "entities": [
+                [
+                    14,
+                    25,
+                    "FOOD"
+                ],
+                [
+                    30,
+                    42,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Salmon for my Hypertension",
+        {
+            "entities": [
+                [
+                    11,
+                    17,
+                    "FOOD"
+                ],
+                [
+                    25,
+                    37,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Hypertension, is Salmon okay?",
+        {
+            "entities": [
+                [
+                    22,
+                    28,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    17,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about White Bread for my Diabetes",
+        {
+            "entities": [
+                [
+                    11,
+                    22,
+                    "FOOD"
+                ],
+                [
+                    30,
+                    38,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Beans for my Obesity",
+        {
+            "entities": [
+                [
+                    11,
+                    16,
+                    "FOOD"
+                ],
+                [
+                    24,
+                    31,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Thyroid, can I eat Soy?",
+        {
+            "entities": [
+                [
+                    26,
+                    29,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    14,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Cruciferous Vegetables for Thyroid",
+        {
+            "entities": [
+                [
+                    0,
+                    22,
+                    "FOOD"
+                ],
+                [
+                    27,
+                    34,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Obesity, is Sugary Drinks okay?",
+        {
+            "entities": [
+                [
+                    17,
+                    30,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    12,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Sugary Drinks good for Obesity?",
+        {
+            "entities": [
+                [
+                    3,
+                    16,
+                    "FOOD"
+                ],
+                [
+                    26,
+                    33,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Soy for my Thyroid",
+        {
+            "entities": [
+                [
+                    11,
+                    14,
+                    "FOOD"
+                ],
+                [
+                    22,
+                    29,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Diabetes, is Rice okay?",
+        {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    13,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "what about Yogurt for my Thyroid",
+        {
+            "entities": [
+                [
+                    11,
+                    17,
+                    "FOOD"
+                ],
+                [
+                    25,
+                    32,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Nuts for Obesity",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "FOOD"
+                ],
+                [
+                    9,
+                    16,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Thyroid, is Seaweed okay?",
+        {
+            "entities": [
+                [
+                    17,
+                    24,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    12,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Pizza good for Hypertension?",
+        {
+            "entities": [
+                [
+                    3,
+                    8,
+                    "FOOD"
+                ],
+                [
+                    18,
+                    30,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "White Bread for Diabetes",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "FOOD"
+                ],
+                [
+                    16,
+                    24,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Diabetes, is Berries okay?",
+        {
+            "entities": [
+                [
+                    18,
+                    25,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    13,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Nuts good for Obesity?",
+        {
+            "entities": [
+                [
+                    3,
+                    7,
+                    "FOOD"
+                ],
+                [
+                    17,
+                    24,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat Gluten if I have Thyroid",
+        {
+            "entities": [
+                [
+                    10,
+                    16,
+                    "FOOD"
+                ],
+                [
+                    27,
+                    34,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How does Banana affect Diabetes?",
+        {
+            "entities": [
+                [
+                    9,
+                    15,
+                    "FOOD"
+                ],
+                [
+                    23,
+                    31,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Diabetes, is Apple okay?",
+        {
+            "entities": [
+                [
+                    18,
+                    23,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    13,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Oats good for Diabetes?",
+        {
+            "entities": [
+                [
+                    3,
+                    7,
+                    "FOOD"
+                ],
+                [
+                    17,
+                    25,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Hypertension, can I eat Pizza?",
+        {
+            "entities": [
+                [
+                    31,
+                    36,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    19,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Pizza and Hypertension",
+        {
+            "entities": [
+                [
+                    14,
+                    19,
+                    "FOOD"
+                ],
+                [
+                    24,
+                    36,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "is Cruciferous Vegetables good for Thyroid?",
+        {
+            "entities": [
+                [
+                    3,
+                    25,
+                    "FOOD"
+                ],
+                [
+                    35,
+                    42,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Rice for Diabetes",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "FOOD"
+                ],
+                [
+                    9,
+                    17,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have Diabetes, can I eat Apple?",
+        {
+            "entities": [
+                [
+                    27,
+                    32,
+                    "FOOD"
+                ],
+                [
+                    7,
+                    15,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Cruciferous Vegetables and Thyroid",
+        {
+            "entities": [
+                [
+                    14,
+                    36,
+                    "FOOD"
+                ],
+                [
+                    41,
+                    48,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With Hypertension, is Beets okay?",
+        {
+            "entities": [
+                [
+                    22,
+                    27,
+                    "FOOD"
+                ],
+                [
+                    5,
+                    17,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "tell me about Nuts and Obesity",
+        {
+            "entities": [
+                [
+                    14,
+                    18,
+                    "FOOD"
+                ],
+                [
+                    23,
+                    30,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ],
+    [
+        "can I eat French Fries if I have Obesity",
+        {
+            "entities": [
+                [
+                    10,
+                    22,
+                    "FOOD"
+                ],
+                [
+                    33,
+                    40,
+                    "DISEASE"
+                ]
+            ]
+        }
+    ]
+]

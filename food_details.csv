@@ -1,0 +1,26 @@
+food_item,condition,explanation,biomarkers
+apple,diabetes,"Apples are high in fiber and have a low glycemic index, which helps in managing blood sugar levels.","Blood Glucose, A1c"
+banana,diabetes,"Bananas are relatively high in sugar and carbohydrates, which can cause a rapid spike in blood sugar levels.",Blood Glucose
+salmon,hypertension,"Salmon is rich in Omega-3 fatty acids, which are known to lower blood pressure and reduce inflammation.","Blood Pressure, Triglycerides"
+canned soup,hypertension,"Canned soups are often very high in sodium, which can significantly raise blood pressure.","Blood Pressure, Sodium Levels"
+seaweed,thyroid,"Seaweed is an excellent source of iodine, a mineral that is essential for healthy thyroid function.","TSH, T3, T4"
+soy,thyroid,Soy products may interfere with the absorption of thyroid medication and can act as goitrogens.,"TSH, T4 Absorption"
+avocado,obesity,"Avocados are rich in healthy fats and fiber, which promote a feeling of fullness and can help with weight management.","Satiety Hormones, LDL Cholesterol"
+sugary drinks,obesity,"Sugary drinks provide empty calories, contribute to weight gain, and offer no nutritional value.","Blood Glucose, Body Weight"
+oats,diabetes,"Oats are a great source of soluble fiber, which can help control blood sugar by slowing down glucose absorption.","Blood Glucose, Cholesterol"
+white bread,diabetes,"White bread is a refined carbohydrate with a high glycemic index, leading to rapid blood sugar spikes.",Blood Glucose
+spinach,hypertension,"Spinach is high in potassium, which helps to counteract the effects of sodium and lower blood pressure.",Blood Pressure
+processed meats,hypertension,Processed meats like bacon and sausages are loaded with sodium and preservatives that are detrimental to heart health.,"Blood Pressure, Sodium Levels"
+yogurt,thyroid,"Yogurt is a good source of iodine and Vitamin D, both of which are important for thyroid health.","Iodine Levels, Vitamin D"
+cruciferous vegetables,thyroid,"Raw cruciferous vegetables (like broccoli, cabbage) can be goitrogenic and interfere with thyroid function in large amounts, especially for those with iodine deficiency.",TSH
+nuts,obesity,"Nuts are calorie-dense but packed with protein, fiber, and healthy fats that increase satiety and can support weight loss in moderation.","Satiety Hormones, Cholesterol"
+french fries,obesity,"French fries are high in unhealthy fats, calories, and often sodium, contributing directly to weight gain.","Body Weight, Triglycerides"
+berries,diabetes,"Berries are packed with antioxidants and fiber and are low on the glycemic index, making them a great fruit choice for diabetics.","Blood Glucose, Inflammation Markers"
+sweetened cereal,diabetes,"Most breakfast cereals are high in sugar and refined carbs, causing a sharp increase in blood sugar levels.",Blood Glucose
+beets,hypertension,"Beets are rich in nitrates, which the body converts to nitric oxide, a molecule that relaxes and widens blood vessels, thus lowering blood pressure.","Blood Pressure, Nitric Oxide Levels"
+pizza,hypertension,"Pizza is typically high in sodium, saturated fat, and refined carbohydrates, all of which can negatively impact blood pressure.","Blood Pressure, Sodium Levels"
+eggs,thyroid,"Eggs are a great source of both iodine and selenium, two key minerals for optimal thyroid function.","Iodine Levels, Selenium Levels"
+gluten,thyroid,"For people with autoimmune thyroid conditions like Hashimoto's, gluten can trigger inflammation and worsen the condition.","Thyroid Antibodies, Inflammation Markers"
+beans,obesity,"Beans and legumes are high in fiber and protein, which helps with feeling full and can aid in weight management.","Satiety Hormones, Blood Glucose"
+pastries,obesity,"Pastries and donuts are high in sugar, unhealthy fats, and refined flour, leading to weight gain and poor metabolic health.","Body Weight, Blood Glucose, Insulin Resistance"
+rice,diabetes,"White rice has a high glycemic index and can cause blood sugar levels to rise quickly. Brown rice is a better, but still portion-controlled, alternative.",Blood Glucose

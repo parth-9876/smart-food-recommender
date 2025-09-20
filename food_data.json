@@ -1,0 +1,177 @@
+[
+  {
+    "food_item": "Apple",
+    "condition": "Diabetes",
+    "recommendation": "good",
+    "explanation": "Apples are high in fiber and have a low glycemic index, which helps in managing blood sugar levels.",
+    "biomarkers": "Blood Glucose, A1c"
+  },
+  {
+    "food_item": "Banana",
+    "condition": "Diabetes",
+    "recommendation": "bad",
+    "explanation": "Bananas are relatively high in sugar and carbohydrates, which can cause a rapid spike in blood sugar levels.",
+    "biomarkers": "Blood Glucose"
+  },
+  {
+    "food_item": "Salmon",
+    "condition": "Hypertension",
+    "recommendation": "good",
+    "explanation": "Salmon is rich in Omega-3 fatty acids, which are known to lower blood pressure and reduce inflammation.",
+    "biomarkers": "Blood Pressure, Triglycerides"
+  },
+  {
+    "food_item": "Canned Soup",
+    "condition": "Hypertension",
+    "recommendation": "bad",
+    "explanation": "Canned soups are often very high in sodium, which can significantly raise blood pressure.",
+    "biomarkers": "Blood Pressure, Sodium Levels"
+  },
+  {
+    "food_item": "Seaweed",
+    "condition": "Thyroid",
+    "recommendation": "good",
+    "explanation": "Seaweed is an excellent source of iodine, a mineral that is essential for healthy thyroid function.",
+    "biomarkers": "TSH, T3, T4"
+  },
+  {
+    "food_item": "Soy",
+    "condition": "Thyroid",
+    "recommendation": "bad",
+    "explanation": "Soy products may interfere with the absorption of thyroid medication and can act as goitrogens.",
+    "biomarkers": "TSH, T4 Absorption"
+  },
+  {
+    "food_item": "Avocado",
+    "condition": "Obesity",
+    "recommendation": "good",
+    "explanation": "Avocados are rich in healthy fats and fiber, which promote a feeling of fullness and can help with weight management.",
+    "biomarkers": "Satiety Hormones, LDL Cholesterol"
+  },
+  {
+    "food_item": "Sugary Drinks",
+    "condition": "Obesity",
+    "recommendation": "bad",
+    "explanation": "Sugary drinks provide empty calories, contribute to weight gain, and offer no nutritional value.",
+    "biomarkers": "Blood Glucose, Body Weight"
+  },
+  {
+    "food_item": "Oats",
+    "condition": "Diabetes",
+    "recommendation": "good",
+    "explanation": "Oats are a great source of soluble fiber, which can help control blood sugar by slowing down glucose absorption.",
+    "biomarkers": "Blood Glucose, Cholesterol"
+  },
+  {
+    "food_item": "White Bread",
+    "condition": "Diabetes",
+    "recommendation": "bad",
+    "explanation": "White bread is a refined carbohydrate with a high glycemic index, leading to rapid blood sugar spikes.",
+    "biomarkers": "Blood Glucose"
+  },
+  {
+    "food_item": "Spinach",
+    "condition": "Hypertension",
+    "recommendation": "good",
+    "explanation": "Spinach is high in potassium, which helps to counteract the effects of sodium and lower blood pressure.",
+    "biomarkers": "Blood Pressure"
+  },
+  {
+    "food_item": "Processed Meats",
+    "condition": "Hypertension",
+    "recommendation": "bad",
+    "explanation": "Processed meats like bacon and sausages are loaded with sodium and preservatives that are detrimental to heart health.",
+    "biomarkers": "Blood Pressure, Sodium Levels"
+  },
+  {
+    "food_item": "Yogurt",
+    "condition": "Thyroid",
+    "recommendation": "good",
+    "explanation": "Yogurt is a good source of iodine and Vitamin D, both of which are important for thyroid health.",
+    "biomarkers": "Iodine Levels, Vitamin D"
+  },
+  {
+    "food_item": "Cruciferous Vegetables",
+    "condition": "Thyroid",
+    "recommendation": "bad",
+    "explanation": "Raw cruciferous vegetables (like broccoli, cabbage) can be goitrogenic and interfere with thyroid function in large amounts, especially for those with iodine deficiency.",
+    "biomarkers": "TSH"
+  },
+  {
+    "food_item": "Nuts",
+    "condition": "Obesity",
+    "recommendation": "good",
+    "explanation": "Nuts are calorie-dense but packed with protein, fiber, and healthy fats that increase satiety and can support weight loss in moderation.",
+    "biomarkers": "Satiety Hormones, Cholesterol"
+  },
+  {
+    "food_item": "French Fries",
+    "condition": "Obesity",
+    "recommendation": "bad",
+    "explanation": "French fries are high in unhealthy fats, calories, and often sodium, contributing directly to weight gain.",
+    "biomarkers": "Body Weight, Triglycerides"
+  },
+  {
+    "food_item": "Berries",
+    "condition": "Diabetes",
+    "recommendation": "good",
+    "explanation": "Berries are packed with antioxidants and fiber and are low on the glycemic index, making them a great fruit choice for diabetics.",
+    "biomarkers": "Blood Glucose, Inflammation Markers"
+  },
+  {
+    "food_item": "Sweetened Cereal",
+    "condition": "Diabetes",
+    "recommendation": "bad",
+    "explanation": "Most breakfast cereals are high in sugar and refined carbs, causing a sharp increase in blood sugar levels.",
+    "biomarkers": "Blood Glucose"
+  },
+  {
+    "food_item": "Beets",
+    "condition": "Hypertension",
+    "recommendation": "good",
+    "explanation": "Beets are rich in nitrates, which the body converts to nitric oxide, a molecule that relaxes and widens blood vessels, thus lowering blood pressure.",
+    "biomarkers": "Blood Pressure, Nitric Oxide Levels"
+  },
+  {
+    "food_item": "Pizza",
+    "condition": "Hypertension",
+    "recommendation": "bad",
+    "explanation": "Pizza is typically high in sodium, saturated fat, and refined carbohydrates, all of which can negatively impact blood pressure.",
+    "biomarkers": "Blood Pressure, Sodium Levels"
+  },
+  {
+    "food_item": "Eggs",
+    "condition": "Thyroid",
+    "recommendation": "good",
+    "explanation": "Eggs are a great source of both iodine and selenium, two key minerals for optimal thyroid function.",
+    "biomarkers": "Iodine Levels, Selenium Levels"
+  },
+  {
+    "food_item": "Gluten",
+    "condition": "Thyroid",
+    "recommendation": "bad",
+    "explanation": "For people with autoimmune thyroid conditions like Hashimoto's, gluten can trigger inflammation and worsen the condition.",
+    "biomarkers": "Thyroid Antibodies, Inflammation Markers"
+  },
+  {
+    "food_item": "Beans",
+    "condition": "Obesity",
+    "recommendation": "good",
+    "explanation": "Beans and legumes are high in fiber and protein, which helps with feeling full and can aid in weight management.",
+    "biomarkers": "Satiety Hormones, Blood Glucose"
+  },
+  {
+    "food_item": "Pastries",
+    "condition": "Obesity",
+    "recommendation": "bad",
+    "explanation": "Pastries and donuts are high in sugar, unhealthy fats, and refined flour, leading to weight gain and poor metabolic health.",
+    "biomarkers": "Body Weight, Blood Glucose, Insulin Resistance"
+  },
+  {
+    "food_item": "Rice",
+    "condition": "Diabetes",
+    "recommendation": "bad",
+    "explanation": "White rice has a high glycemic index and can cause blood sugar levels to rise quickly. Brown rice is a better, but still portion-controlled, alternative.",
+    "biomarkers": "Blood Glucose"
+  }
+]
